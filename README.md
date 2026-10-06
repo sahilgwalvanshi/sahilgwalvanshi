@@ -10,13 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Sahil+Gwalvanshi!;%F0%9F%A4%96+AI+%26+Machine+Learning+Specialist;%F0%9F%92%BB+Full-Stack+Web+Developer;%E2%9C%A8+Interactive+3D+Web+%26+Three.js+Enthusiast" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Views Badge -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sahilgwalvanshi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
-  </p>
-
-</div>
-
 ---
 
 ## About Me
