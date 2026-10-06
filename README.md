@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="./assets/banner.jpg" alt="Sahil Gwalvanshi Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/c6/f3/ee/c6f3ee03f848fd91fc216cc17e1f722f.jpg" alt="Sahil Gwalvanshi Banner" width="100%" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Typing SVG Header -->
+  <!-- Typing SVG Dynamic Header -->
   <a href="https://github.com/sahilgwalvanshi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+Everyone%2C+I'm+Sahil+Gwalvanshi!;%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!;%F0%9F%9A%80+Passionate+Software+Developer;%E2%9C%A8+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Sahil+Gwalvanshi!;%F0%9F%A4%96+AI+%26+Machine+Learning+Specialist;%F0%9F%92%BB+Full-Stack+Web+Developer;%E2%9C%A8+Interactive+3D+Web+%26+Three.js+Enthusiast" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Badge -->
@@ -15,74 +15,95 @@
     <img src="https://komarev.com/ghpvc/?username=sahilgwalvanshi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
   </p>
 
+  <!-- Social Media Icons (Skill-Icons Style) -->
+  <h3>🌐 Connect With Me</h3>
+  <p align="center">
+    <a href="https://linkedin.com/in/sahilgwalvanshi" target="_blank" title="LinkedIn">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:sahilgwalvanshi@gmail.com" target="_blank" title="Gmail">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/sahilgwalvanshi" target="_blank" title="Twitter/X">
+      <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/sahilgwalvanshi" target="_blank" title="Instagram">
+      <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://discord.com" target="_blank" title="Discord">
+      <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/sahilgwalvanshi" target="_blank" title="GitHub">
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        🚀 <b>Hi there! I'm Sahil</b>, a passionate developer dedicated to building impactful, scalable, and elegant solutions.
-      </p>
-      <ul>
-        <li>🔭 <b>Currently working on:</b> Full-stack web & software development projects</li>
-        <li>🌱 <b>Currently learning:</b> Modern cloud architectures, system design & advanced technologies</li>
-        <li>🛠️ <b>Passionate about:</b> Clean code, problem solving, and intuitive UI/UX</li>
-        <li>💬 <b>Ask me about:</b> Web Development, JavaScript/TypeScript, Python, and open-source</li>
-        <li>🤝 <b>Open to:</b> Collaborations on exciting projects and hackathons</li>
-        <li>📫 <b>How to reach me:</b> Check out the links below!</li>
-      </ul>
-      <br/>
+Hi, I’m **Sahil Gwalvanshi**, a Computer Science Engineering student specializing in **AI & Machine Learning** and a passionate **Full-Stack Developer**.
 
-  <!-- Social Links -->
-  <h4>🌐 Connect with me</h4>
-  <p>
-    <a href="https://linkedin.com/in/sahilgwalvanshi" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://twitter.com/sahilgwalvanshi" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://instagram.com/sahilgwalvanshi" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://t.me/sahilgwalvanshi" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-  </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="0" />
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+I enjoy building **modern, scalable, and interactive web applications** using technologies like **React, Next.js, Node.js, Tailwind CSS, Firebase, and Three.js**.
+
+### What I Do
+- Build responsive and user-focused web applications
+- Explore **AI/ML and emerging technologies**
+- Create interactive experiences with **Three.js & GSAP**
+- Work with APIs, databases, authentication, and cloud services
+- Participate in **hackathons, tech communities, and collaborative projects**
+
+Currently focused on growing my skills in **full-stack development, AI/ML, and open source**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,git,github,docker,linux,postman" alt="Tech Stack Icons" />
+<p align="left">
+  <b>Programming Languages:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" alt="Languages" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Frontend & Creative Tech:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" alt="Frontend" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Backend, Databases & Cloud:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,mysql" alt="Backend" />
+  </a>
+</p>
+
+<p align="left">
+  <b>AI/ML & Data Science:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" alt="AI/ML" />
+  </a>
+</p>
+
+<p align="left">
+  <b>DevOps, Tools & Systems:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma" alt="Tools" />
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilgwalvanshi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
-### 📊 GitHub Analytics & Statistics
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -111,14 +132,6 @@
 
 ---
 
-### 📈 Contribution Habit & Streak
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilgwalvanshi&theme=tokyonight&utcOffset=5" alt="Productive Time" />
-</p>
-
----
-
 <div align="center">
-  <sub>⭐️ Designed with passion for <b>Sahil Gwalvanshi</b> | Feel free to star this repository!</sub>
+  <sub>⭐️ Designed with passion for <b>Sahil Gwalvanshi</b> | Thanks for visiting!</sub>
 </div>
