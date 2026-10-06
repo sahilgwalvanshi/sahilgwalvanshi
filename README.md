@@ -1,370 +1,107 @@
-<!-- ========================================================= -->
-<!--                  SAHIL GWALVANSHI                         -->
-<!--             GitHub Profile README                         -->
-<!-- ========================================================= -->
-
-<!-- ======================= HEADER ========================== -->
-
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SAHIL%20GWALVANSHI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Student&descAlignY=58&descSize=18" width="100%" alt="Sahil Gwalvanshi GitHub profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sahil%20Gwalvanshi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Student&descAlignY=58&descSize=18" alt="Banner" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Sahil+Gwalvanshi;MERN+Stack+Developer;B.Tech+CSE+(AI+%26+ML)+%40+GGITS;IEEE+Student+Branch+Chairperson;Building+real-world+projects" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Student;Building+Real-World+Projects;Learning+DSA+%26+Backend;Open+to+Collaboration"
-  alt="Typing animation showing Sahil's developer roles"
-/>
-
-<br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"
-  alt="GitHub profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=sahilgwalvanshi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/sahilgwalvanshi?style=flat&logo=github&label=Followers" alt="Followers" />
 
 </div>
 
-<br/>
-
-<!-- ======================= INTRO =========================== -->
-
-<h2 align="center">Hey 👋, I'm Sahil Gwalvanshi</h2>
-
-<p align="center">
-  <b>B.Tech CSE (AI & ML) Student • Full Stack Developer • Builder • Community Leader</b>
-</p>
-
-<p align="center">
-  I enjoy turning ideas into useful digital products and continuously improving
-  my skills across frontend development, backend engineering, AI/ML and problem solving.
-</p>
-
-<br/>
-
-<!-- ======================= ABOUT ME ========================= -->
+---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://i.pinimg.com/736x/1f/46/8c/1f468c1437ccd23228a00e26cf1377c7.jpg" alt="Developer illustration"/>
+<img align="right" height="220" src="https://i.pinimg.com/736x/1f/46/8c/1f468c1437ccd23228a00e26cf1377c7.jpg" alt="About me" />
 
-I'm **Sahil Gwalvanshi**, a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Gyan Ganga Institute of Technology & Sciences (GGITS), RGPV**.
+- 🎓 B.Tech in Computer Science (AI & ML) at **GGITS, RGPV**
+- 🏛️ Chairperson, **IEEE Student Branch** at my college
+- 🌐 Learning and building with the **MERN stack**
+- 🧠 Working on Data Structures, Algorithms and core programming
+- 🎯 Goal: become a skilled software engineer and ship real-world projects
+- 🌱 Focused on consistency, continuous learning and personal growth
 
-I'm currently focused on becoming a stronger **full-stack developer**, with a strong foundation in frontend development and growing experience in backend development and databases.
-
-### What I'm working on
-
-- Building modern web applications using the **MERN ecosystem**
-- Improving my **Data Structures & Algorithms** skills
-- Learning backend architecture, APIs and **MongoDB**
-- Exploring **AI/ML and AI-powered applications**
-- Building interactive and visually rich web experiences
-- Working on real-world projects instead of only tutorials
-- Developing my software engineering and problem-solving fundamentals
-
-### Leadership
-
-- **IEEE Student Branch Chairperson** at GGITS
-- Actively involved in student technology communities
-- Interested in developer communities, hackathons and collaborative projects
-- Passionate about connecting technology with practical problems
-
-<br clear="right"/>
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,java" alt="HTML CSS JavaScript TypeScript C++ Python Java"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,gsap" alt="React Next.js Vite Tailwind CSS Three.js GSAP"/>
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Node.js Express MongoDB Firebase"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,gcp,replit,postman" alt="Git GitHub GitLab VS Code Vercel Google Cloud Replit Postman"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind&perline=9" alt="Web" /><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,firebase,gcp&perline=9" alt="Languages and cloud" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,replit&perline=9" alt="Tools" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 1. Skill Setu — AI Skill Intelligence Platform
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **Skill Setu** | AI-enabled skill intelligence & learning platform (Smart India Hackathon) | React, Node.js, AI/ML |
+| **3D Portfolio** | Scroll-driven 3D journey portfolio | React Three Fiber, GSAP |
+| **Your next project** | Add it here as you build | MERN |
 
-> Smart India Hackathon project focused on helping users understand, evaluate and improve their skills using AI-driven intelligence.
-
-**Focus:** AI • Skill Intelligence • Full Stack • Real-World Problem Solving
-
-**Highlights**
-
-- AI-powered skill analysis
-- Skill intelligence and recommendations
-- Modern full-stack architecture
-- Designed around a real-world education/career problem
-- Developed as part of the Smart India Hackathon ecosystem
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub projects"/>
-</a>
+<!-- Tip: once you have repo names, add pin cards:
+<a href="https://github.com/sahilgwalvanshi/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilgwalvanshi&repo=REPO_NAME&theme=tokyonight&hide_border=true" /></a>
+-->
 
 ---
 
-## 2. 3D Scroll-Driven Developer Portfolio
-
-> A cinematic developer portfolio combining modern frontend engineering with interactive 3D experiences.
-
-**Tech:** React • Vite • Tailwind CSS • Three.js • React Three Fiber • GSAP • Lenis
-
-**Highlights**
-
-- Interactive 3D experience
-- Scroll-driven animations
-- Smooth scrolling
-- Responsive UI
-- Modern developer-focused visual system
-- Performance-conscious frontend architecture
-
-<a href="https://github.com/sahilgwalvanshi">
-  <img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore portfolio repository"/>
-</a>
-
----
-
-## 📌 Project Overview
-
-| Project | Category | Technologies | Status |
-|---|---|---|---|
-| **Skill Setu** | AI / Full Stack | MERN + AI | 🚀 Building |
-| **3D Portfolio** | Frontend / 3D | React + R3F + GSAP | 🟢 Active |
-| **More Projects** | Web / AI | JavaScript + React + Node.js | 🔨 Growing |
-
-> Visit my repositories to explore more experiments, projects and learning work.
-
-<a href="https://github.com/sahilgwalvanshi?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Repositories-View%20on%20GitHub-238636?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub repositories"/>
-</a>
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sahilgwalvanshi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent"
-  height="180"
-  alt="GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-streak-stats.demolab.com/?user=sahilgwalvanshi&hide_border=true&theme=transparent"
-  height="180"
-  alt="GitHub contribution streak"
-/>
-
-</div>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilgwalvanshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats (stars, commits, PRs, issues)" />
+<img height="180" src="https://streak-stats.demolab.com/?user=sahilgwalvanshi&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 <br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgwalvanshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+### 📈 Contribution / Commit Activity Graph
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgwalvanshi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+</div>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgwalvanshi&layout=compact&langs_count=10&hide_border=true&theme=transparent"
-  height="180"
-  alt="Top programming languages"
-/>
+### 🧮 Detailed Metrics (3D calendar, repos, languages, activity)
 
+<!-- Needs the metrics.yml workflow. Image appears after the first successful run. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+</div>
+
+### 🐍 Contribution Snake
+
+<!-- Needs the snake.yml workflow. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/output/github-snake.svg" />
+  </picture>
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilgwalvanshi&theme=onedark&no-frame=true&column=7" alt="Trophies" />
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-gwalvanshi-66544136a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/SahilGwalvanshi" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/itssahilgwalvanshi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/1432643047727824947" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgwalvanshi&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
 </div>
-
----
-
-# 🗓️ Commit Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgwalvanshi&bg_color=00000000&color=58A6FF&line=2F81F7&point=FFFFFF&area=false&hide_border=true&custom_title=Commit%20Activity"
-  width="100%"
-  alt="GitHub commit activity graph"
-/>
-
-</div>
-
----
-
-# 📌 GitHub Profile Metrics
-
-<div align="center">
-
-<img
-  src="./github-metrics.svg"
-  width="100%"
-  alt="Detailed GitHub metrics including repositories, languages, contributions and activity"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./github-snake.svg"
-  />
-  <img
-    src="./github-snake.svg"
-    alt="Animated GitHub contribution snake"
-    width="100%"
-  />
-</picture>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=sahilgwalvanshi&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-  width="100%"
-  alt="GitHub profile trophies"
-/>
-
-</div>
-
----
-
-# 📊 Quick GitHub Metrics
-
-<div align="center">
-
-<img
-  src="https://img.shields.io/github/repos/sahilgwalvanshi?style=for-the-badge&label=TOTAL%20REPOS&logo=github"
-  alt="Total GitHub repositories"
-/>
-
-<img
-  src="https://img.shields.io/github/followers/sahilgwalvanshi?style=for-the-badge&label=FOLLOWERS&logo=github"
-  alt="GitHub followers"
-/>
-
-<img
-  src="https://img.shields.io/github/stars/sahilgwalvanshi?style=for-the-badge&label=STARS&logo=github"
-  alt="GitHub stars"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://img.shields.io/github/last-commit/sahilgwalvanshi/sahilgwalvanshi?style=for-the-badge&label=PROFILE%20REPO%20UPDATED&logo=github"
-  alt="Profile repository last commit"
-/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sahil-gwalvanshi-66544136a">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://x.com/SahilGwalvanshi">
-  <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="X / Twitter"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/itssahilgwalvanshi">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://discord.com/users/1432643047727824947">
-  <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sahil-gwalvanshi-66544136a">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-
-<a href="https://x.com/SahilGwalvanshi">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
-</a>
-
-</div>
-
----
-
-# 💡 Current Focus
-
-```text
-Full Stack Development
-        ↓
-React / Next.js
-        ↓
-Node.js / Express
-        ↓
-MongoDB
-        ↓
-DSA & Problem Solving
-        ↓
-AI / ML Integration
-        ↓
-Production-Ready Applications
