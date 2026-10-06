@@ -3,7 +3,7 @@
   <!-- Header Banner -->
   <img src="https://i.pinimg.com/1200x/c6/f3/ee/c6f3ee03f848fd91fc216cc17e1f722f.jpg" alt="Sahil Gwalvanshi Banner" width="100%" />
 
-  <br/><br/>
+</div>
 
 ---
 
