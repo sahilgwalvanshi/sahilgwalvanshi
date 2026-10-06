@@ -50,11 +50,22 @@ Currently focused on growing my skills in full-stack development, AI/ML, and ope
 </div>
 
 <!--
-  OPTIONAL (enable AFTER the two workflows have run once successfully):
-  delete this comment markers to show the 3D metrics card and the snake.
+  ENABLE AFTER the 3 workflows (metrics, activity-overview, snake) have each run once successfully:
+  delete this opening comment marker and the closing one below.
+
+## GitHub Stats & Performance
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+</div>
+
+## Activity Overview
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/main/activity-overview.svg" alt="Activity overview" width="420" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 </div>
 -->
