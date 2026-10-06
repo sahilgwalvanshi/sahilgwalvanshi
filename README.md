@@ -1,80 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Sahil%20Gwalvanshi&fontSize=46&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Student&descAlignY=60&descSize=18" alt="Sahil Gwalvanshi" width="100%"/>
+  <!-- Header Banner -->
+  <img src="./assets/banner.jpg" alt="Sahil Gwalvanshi Banner" width="100%" />
 
-<img src="https://img.shields.io/badge/MERN-Stack-0e75b6?style=flat-square" alt="MERN" />
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-2ea043?style=flat-square" alt="B.Tech" />
-<img src="https://img.shields.io/badge/IEEE-Student%20Branch%20Chair-00629B?style=flat-square" alt="IEEE" />
-<img src="https://komarev.com/ghpvc/?username=sahilgwalvanshi&label=Profile%20Views&color=555555&style=flat-square" alt="Profile views" />
-
-</div>
-
-## About Me
-
-Hi, I'm **Sahil Gwalvanshi**, a Computer Science Engineering student specializing in AI & Machine Learning and a passionate Full-Stack Developer.
-I enjoy building modern, scalable, and interactive web applications using **React, Next.js, Node.js, Tailwind CSS, Firebase, and Three.js**.
-
-### What I Do
-
-- Build responsive and user-focused web applications
-- Explore AI/ML and emerging technologies
-- Create interactive experiences with Three.js & GSAP
-- Work with APIs, databases, authentication, and cloud services
-- Participate in hackathons, tech communities, and collaborative projects
-
-Currently focused on growing my skills in full-stack development, AI/ML, and open source.
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,threejs,firebase,mongodb&perline=12" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,github,vscode,vercel,gcp&perline=12" alt="Tools" />
-</p>
-
-## Featured Projects
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| **Skill Setu** | AI-enabled skill intelligence and learning platform built for Smart India Hackathon | React, Node.js, AI/ML |
-| **3D Portfolio** | Scroll-driven 3D journey portfolio website | React Three Fiber, GSAP |
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilgwalvanshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=sahilgwalvanshi&theme=tokyonight&hide_border=true" alt="Contribution streak" />
   <br/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgwalvanshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <br/><br/>
-  <img src="https://ghchart.rshah.org/2ea043/sahilgwalvanshi" alt="Contribution graph" width="95%" />
+
+  <!-- Typing SVG Header -->
+  <a href="https://github.com/sahilgwalvanshi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+Everyone%2C+I'm+Sahil+Gwalvanshi!;%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!;%F0%9F%9A%80+Passionate+Software+Developer;%E2%9C%A8+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  </a>
+
+  <!-- Profile Views Badge -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sahilgwalvanshi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+  </p>
+
 </div>
 
-<!--
-  ENABLE AFTER the 3 workflows (metrics, activity-overview, snake) have each run once successfully:
-  delete this opening comment marker and the closing one below.
+---
 
-## GitHub Stats & Performance
+### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        🚀 <b>Hi there! I'm Sahil</b>, a passionate developer dedicated to building impactful, scalable, and elegant solutions.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently working on:</b> Full-stack web & software development projects</li>
+        <li>🌱 <b>Currently learning:</b> Modern cloud architectures, system design & advanced technologies</li>
+        <li>🛠️ <b>Passionate about:</b> Clean code, problem solving, and intuitive UI/UX</li>
+        <li>💬 <b>Ask me about:</b> Web Development, JavaScript/TypeScript, Python, and open-source</li>
+        <li>🤝 <b>Open to:</b> Collaborations on exciting projects and hackathons</li>
+        <li>📫 <b>How to reach me:</b> Check out the links below!</li>
+      </ul>
+      <br/>
 
-## Activity Overview
+  <!-- Social Links -->
+  <h4>🌐 Connect with me</h4>
+  <p>
+    <a href="https://linkedin.com/in/sahilgwalvanshi" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your-email@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://twitter.com/sahilgwalvanshi" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://instagram.com/sahilgwalvanshi" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://t.me/sahilgwalvanshi" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="0" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/main/activity-overview.svg" alt="Activity overview" width="420" />
-</div>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sahilgwalvanshi/sahilgwalvanshi/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
-</div>
--->
-
-## Connect
+### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-gwalvanshi-66544136a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/SahilGwalvanshi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/itssahilgwalvanshi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.com/users/1432643047727824947"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,git,github,docker,linux,postman" alt="Tech Stack Icons" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilgwalvanshi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%" />
+</div>
+
+---
+
+### 📊 GitHub Analytics & Statistics
+
+<div align="center">
+
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgwalvanshi&theme=tokyo-night&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+
+  <br/><br/>
+
+  <!-- Overall Stats & Streak Stats -->
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sahilgwalvanshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="410px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgwalvanshi&theme=tokyonight&hide_border=true" width="410px" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Top Languages Donut Chart -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgwalvanshi&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="480px" alt="Top Languages" />
+
+</div>
+
+---
+
+### 📈 Contribution Habit & Streak
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilgwalvanshi&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+</p>
+
+---
+
+<div align="center">
+  <sub>⭐️ Designed with passion for <b>Sahil Gwalvanshi</b> | Feel free to star this repository!</sub>
+</div>
