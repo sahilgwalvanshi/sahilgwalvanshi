@@ -9,20 +9,26 @@
 
 </div>
 
-## About
+## About Me
 
-I'm a Computer Science (AI & ML) student at **GGITS, RGPV** and the **IEEE Student Branch Chairperson** at my college.
-I build full stack web applications with the MERN stack, practice Data Structures and Algorithms, and work on projects that solve real problems.
+Hi, I'm **Sahil Gwalvanshi**, a Computer Science Engineering student specializing in AI & Machine Learning and a passionate Full-Stack Developer.
+I enjoy building modern, scalable, and interactive web applications using **React, Next.js, Node.js, Tailwind CSS, Firebase, and Three.js**.
 
-- Currently building: a 3D scroll-driven portfolio and **Skill Setu**, an AI-enabled skill intelligence and learning platform (Smart India Hackathon)
-- Learning: backend with MongoDB, DSA, applied AI/ML
-- Goal: grow into a skilled software engineer who ships real-world products
+### What I Do
+
+- Build responsive and user-focused web applications
+- Explore AI/ML and emerging technologies
+- Create interactive experiences with Three.js & GSAP
+- Work with APIs, databases, authentication, and cloud services
+- Participate in hackathons, tech communities, and collaborative projects
+
+Currently focused on growing my skills in full-stack development, AI/ML, and open source.
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,cpp,python,java&perline=12" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,gcp&perline=12" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,threejs,firebase,mongodb&perline=12" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,github,vscode,vercel,gcp&perline=12" alt="Tools" />
 </p>
 
 ## Featured Projects
