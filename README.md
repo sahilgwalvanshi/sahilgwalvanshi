@@ -140,7 +140,7 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 - Modern developer-focused visual system
 - Performance-conscious frontend architecture
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sahilgwalvanshi">
   <img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore portfolio repository"/>
 </a>
 
@@ -156,7 +156,7 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 
 > Visit my repositories to explore more experiments, projects and learning work.
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/sahilgwalvanshi?tab=repositories">
   <img src="https://img.shields.io/badge/All%20Repositories-View%20on%20GitHub-238636?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub repositories"/>
 </a>
 
@@ -167,13 +167,13 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent"
+  src="https://github-readme-stats.vercel.app/api?username=sahilgwalvanshi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent"
   height="180"
   alt="GitHub statistics"
 />
 
 <img
-  src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent"
+  src="https://github-readme-streak-stats.demolab.com/?user=sahilgwalvanshi&hide_border=true&theme=transparent"
   height="180"
   alt="GitHub contribution streak"
 />
@@ -185,7 +185,7 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&hide_border=true&theme=transparent"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgwalvanshi&layout=compact&langs_count=10&hide_border=true&theme=transparent"
   height="180"
   alt="Top programming languages"
 />
@@ -199,7 +199,7 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgwalvanshi&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
   width="100%"
   alt="GitHub contribution activity graph"
 />
@@ -213,7 +213,7 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=58A6FF&line=2F81F7&point=FFFFFF&area=false&hide_border=true&custom_title=Commit%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgwalvanshi&bg_color=00000000&color=58A6FF&line=2F81F7&point=FFFFFF&area=false&hide_border=true&custom_title=Commit%20Activity"
   width="100%"
   alt="GitHub commit activity graph"
 />
@@ -265,7 +265,7 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+  src="https://github-profile-trophy.vercel.app/?username=sahilgwalvanshi&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
   width="100%"
   alt="GitHub profile trophies"
 />
@@ -279,17 +279,17 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 <div align="center">
 
 <img
-  src="https://img.shields.io/github/repos/YOUR_USERNAME?style=for-the-badge&label=TOTAL%20REPOS&logo=github"
+  src="https://img.shields.io/github/repos/sahilgwalvanshi?style=for-the-badge&label=TOTAL%20REPOS&logo=github"
   alt="Total GitHub repositories"
 />
 
 <img
-  src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&label=FOLLOWERS&logo=github"
+  src="https://img.shields.io/github/followers/sahilgwalvanshi?style=for-the-badge&label=FOLLOWERS&logo=github"
   alt="GitHub followers"
 />
 
 <img
-  src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&label=STARS&logo=github"
+  src="https://img.shields.io/github/stars/sahilgwalvanshi?style=for-the-badge&label=STARS&logo=github"
   alt="GitHub stars"
 />
 
@@ -300,7 +300,7 @@ I'm currently focused on becoming a stronger **full-stack developer**, with a st
 <div align="center">
 
 <img
-  src="https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_USERNAME?style=for-the-badge&label=PROFILE%20REPO%20UPDATED&logo=github"
+  src="https://img.shields.io/github/last-commit/sahilgwalvanshi/sahilgwalvanshi?style=for-the-badge&label=PROFILE%20REPO%20UPDATED&logo=github"
   alt="Profile repository last commit"
 />
 
