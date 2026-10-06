@@ -9,9 +9,7 @@
 
 ## About Me
 
-Hi, I’m **Sahil Gwalvanshi**, a Computer Science Engineering student specializing in **AI & Machine Learning** and a passionate **Full-Stack Developer**.
-
-I enjoy building **modern, scalable, and interactive web applications** using technologies like **React, Next.js, Node.js, Tailwind CSS, Firebase, and Three.js**.
+Hi, I’m **Sahil Gwalvanshi**, a Computer Science Engineering student specializing in **AI & Machine Learning** and a passionate **Full-Stack Developer**. I enjoy building **modern, scalable, and interactive web applications** using technologies like **React, Next.js, Node.js, Tailwind CSS, Firebase, and Three.js**.
 
 ### What I Do
 - Build responsive and user-focused web applications
