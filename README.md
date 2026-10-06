@@ -15,34 +15,6 @@
     <img src="https://komarev.com/ghpvc/?username=sahilgwalvanshi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
   </p>
 
-  <!-- Social Media Icons (Skill-Icons Style) -->
-  <h3>🌐 Connect With Me</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/sahilgwalvanshi" target="_blank" title="LinkedIn">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:sahilgwalvanshi@gmail.com" target="_blank" title="Gmail">
-      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/sahilgwalvanshi" target="_blank" title="Twitter/X">
-      <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/sahilgwalvanshi" target="_blank" title="Instagram">
-      <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com" target="_blank" title="Discord">
-      <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/sahilgwalvanshi" target="_blank" title="GitHub">
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-    </a>
-  </p>
-
 </div>
 
 ---
@@ -64,40 +36,41 @@ Currently focused on growing my skills in **full-stack development, AI/ML, and o
 
 ---
 
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sahilgwalvanshi" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:sahilgwalvanshi@gmail.com" target="_blank" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/sahilgwalvanshi" target="_blank" title="Twitter/X">
+    <img src="https://skillicons.dev/icons?i=twitter" height="42" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/sahilgwalvanshi" target="_blank" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com" target="_blank" title="Discord">
+    <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sahilgwalvanshi" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <b>Programming Languages:</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" alt="Languages" />
-  </a>
-</p>
-
-<p align="left">
-  <b>Frontend & Creative Tech:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" alt="Frontend" />
-  </a>
-</p>
-
-<p align="left">
-  <b>Backend, Databases & Cloud:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,mysql" alt="Backend" />
-  </a>
-</p>
-
-<p align="left">
-  <b>AI/ML & Data Science:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" alt="AI/ML" />
-  </a>
-</p>
-
-<p align="left">
-  <b>DevOps, Tools & Systems:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,react,nextjs,tailwind,threejs,nodejs,express,firebase,mongodb,postgres,mysql,pytorch,tensorflow,git,github,docker,linux,postman,vscode,figma&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
